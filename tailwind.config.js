@@ -4,18 +4,22 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        "quicksand": ["Quicksand", "sans-serif"],
+        quicksand: ["Quicksand", "sans-serif"],
         "roboto-condensed": ["Roboto Condensed", "sans-serif"],
       },
       colors: {
-        "bg-gradient-start": "#303b37",
-        "bg-gradient-end": "#1e1f1d",
-        "text-main": "#e1eeeb",
-        "input-border": "#76c0ae",
-        "input-bg": "transparent",
-        "input-text": "#c2e9e0",
-        "header-text": "#83e6c0",
-        "result-text": "#c2e9e0",
+        "custom-green": "#307e6c",
+        "custom-teal": "#2b996d",
+        "custom-light-green": "#76c0ae",
+        "custom-light-teal": "#83e6c0",
+        "custom-dark-green": "#1a1f1d",
+        "custom-medium-green": "#303b37",
+      },
+      backgroundImage: {
+        "radial-gradient": "radial-gradient(#303b37, #1a1f1d)",
+      },
+      fontSize: {
+        xs: "0.5rem",
       },
     },
   },
