@@ -71,10 +71,6 @@ dist/
 # Windows
 Thumbs.db
 
-# Project specific
-public/
-src/
-
 # Build files
 *.js.map
 *.css.map
