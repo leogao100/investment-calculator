@@ -23,5 +23,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src", "src/assets/components"]
+  "include": ["src", "src/assets/components", "src1/components", "src1/util", "src1/App.tsx"]
 }
