@@ -68,9 +68,6 @@ dist/
 # macOS
 .DS_Store
 
-# Windows
-Thumbs.db
-
 # Build files
 *.js.map
 *.css.map
