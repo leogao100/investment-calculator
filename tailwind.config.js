@@ -14,6 +14,7 @@ export default {
         "custom-light-teal": "#83e6c0",
         "custom-dark-green": "#1a1f1d",
         "custom-medium-green": "#303b37",
+        "custom-light-mint":"#c2e9e0",
       },
       backgroundImage: {
         "radial-gradient": "radial-gradient(#303b37, #1a1f1d)",
@@ -21,6 +22,9 @@ export default {
       fontSize: {
         xs: "0.5rem",
       },
+      lineHeight: {
+        '18':"18px"
+      }
     },
   },
   plugins: [],
