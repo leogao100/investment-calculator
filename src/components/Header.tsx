@@ -3,7 +3,7 @@ import logo from "../assets/investment-calculator-logo.png";
 
 const Header: React.FC = () => { 
     return (
-      <header className="text-align my-12 flex flex-col items-center">
+      <header className="text-align p-12 flex flex-col items-center w-full ">
         <img
           src={logo}
           alt="Invest to your future"

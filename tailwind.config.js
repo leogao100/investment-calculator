@@ -17,7 +17,7 @@ export default {
         "custom-light-mint":"#c2e9e0",
       },
       backgroundImage: {
-        "radial-gradient": "radial-gradient(#303b37, #1a1f1d)",
+        "radial-gradient": "radial-gradient(#503b37, #1a1f1d)",
       },
       fontSize: {
         xs: "0.5rem",
